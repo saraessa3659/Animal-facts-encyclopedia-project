@@ -1,5 +1,6 @@
-tiger:tigers have striped skin , not just strioed fur!
+tiger:tigers have striped skin , not just striped fur!
 dog:dogs can understand over 150 words.
-koala:koalas sleep upto 22 hrs a day
+koala:koalas sleep up to 22 hrs a day
 cat:cats sleep 70% of their lives
-elephant:elephants can smell water from miles away
+elephant:elephants can smell water from miles away 
+ 
